@@ -71,7 +71,7 @@ hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
-  overflow: visible; }
+  overflow: scroll; }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -178,7 +178,7 @@ img {
   border-style: none; }
 
 svg:not(:root) {
-  overflow: hidden; }
+  overflow: scroll; }
 
 table {
   border-collapse: collapse; }
